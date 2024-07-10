@@ -15,7 +15,7 @@ There are two folders of theories hhl and exthhl, the latter one is a extension 
   * some lemmas in real functions like MVT and IVT  
   * definitions of state, ode and ode solution
       
-### BigStepSequential.thy
+### BigStepSimple.thy
   * Big-step semantics 
   * Assertions for single process
   * Hoare rules for discrete process
@@ -26,9 +26,13 @@ There are two folders of theories hhl and exthhl, the latter one is a extension 
 ### BigStepParallel.thy
   * combination of traces
   * Assertions for parallel process
-  * Hoare rules for parallel without continuous assertions
       
 ### Complementlemma.thy and ContinuousInv.thy
   * Some useful lemmas about differential invariants and trace assertions
+
+## cases
+hhl/C.thy	   case of the cruise control system
+hhl/Lander2.thy	case of the Lunar lander
+exthhl/combinep.thy	case of the scheduler
 
 
