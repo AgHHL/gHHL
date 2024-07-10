@@ -9,7 +9,7 @@
    4. Open the ".thy" files in this package in Isabelle2023 <br>
 
 ## simple intrudction of theories
-There are two folders of theories hhl and exthhl, the latter one is a extension by adding an 
+There are two folders of theories hhl and exthhl, the latter one is a extension by adding a new part into state to deal with more types of variables like lists
 ### Analysis_more.thy
   * some results about derivatives   
   * some lemmas in real functions like MVT and IVT  
