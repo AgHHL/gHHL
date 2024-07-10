@@ -1,5 +1,5 @@
 # hhlprover
-## usage
+## Usage
    1. Install Isabelle2023 from:<br>
         https://isabelle.in.tum.de/website-Isabelle2023/index.html  <br>
    2. Make AFP available to Isabelle from:<br>
@@ -8,7 +8,7 @@
    3. Change logic session to "Ordinary_Differential_Equations" (change requires restart) <br>
    4. Open the ".thy" files in this package in Isabelle2023 <br>
 
-## simple intrudction of theories
+## Simple intrudction of theories
 There are two folders of theories hhl and exthhl, the latter one is a extension by adding a new part into state to deal with more types of variables like lists
 ### Analysis_more.thy
   * some results about derivatives   
@@ -30,7 +30,7 @@ There are two folders of theories hhl and exthhl, the latter one is a extension 
 ### Complementlemma.thy and ContinuousInv.thy
   * Some useful lemmas about differential invariants and trace assertions
 
-## cases
+## Cases
   1. case of the cruise control system <br>
        hhl/C.thy
   2. case of the Lunar lander <br>
