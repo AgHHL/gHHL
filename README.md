@@ -9,7 +9,7 @@
    4. Open the ".thy" files in this package in Isabelle2023 <br>
 
 ## simple intrudction of theories
-There are
+There are two folders of theories hhl and exthhl, the latter one is a extension by adding an 
 ### Analysis_more.thy
   * some results about derivatives   
   * some lemmas in real functions like MVT and IVT  
@@ -28,14 +28,7 @@ There are
   * Assertions for parallel process
   * Hoare rules for parallel without continuous assertions
       
-### BigStepContParallel.thy
-  * combination of traces
-  * Hoare rules for parallel between continuous assertions and discrete assertions
+### Complementlemma.thy and ContinuousInv.thy
+  * Some useful lemmas about differential invariants and trace assertions
 
-### BigStepInterryptParallel.thy
-  * combination of traces
-  * Hoare rules for parallel between interrupt assertions
-
-### BigstepEx.thy and BigStepContinuousEx.thy and InterruptEx.thy
-  * some simple examples
 
