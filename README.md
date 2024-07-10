@@ -18,17 +18,18 @@ There are two folders of theories hhl and exthhl, the latter is a extension of t
 ### BigStepSimple.thy
   * Big-step semantics 
   * Assertions for single process
-  * Hoare rules for discrete process
+  * Inference rules for discrete process
       
 ### BigStepContinuous.thy
-  * Hoare rules for ode and ode interrupt
+  * Inference rules for ode and ode interrupt
       
 ### BigStepParallel.thy
   * combination of traces
   * Assertions for parallel process
+  * Inference rules for parallel process
       
 ### Complementlemma.thy and ContinuousInv.thy
-  * Some useful lemmas about differential invariants and trace assertions
+  * Some useful lemmas about differential invariants and trace synchronization
 
 ## Cases
   1. case of the cruise control system <br>
