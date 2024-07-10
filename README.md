@@ -39,8 +39,3 @@ There are
 ### BigstepEx.thy and BigStepContinuousEx.thy and InterruptEx.thy
   * some simple examples
 
-### BigstepRec.thy
-  * assertions of rep hcsp in lfp form
-
-### C.thy
-  * proof the case CCS
