@@ -31,8 +31,8 @@ There are two folders of theories hhl and exthhl, the latter one is a extension 
   * Some useful lemmas about differential invariants and trace assertions
 
 ## cases
-hhl/C.thy	   case of the cruise control system
-hhl/Lander2.thy	case of the Lunar lander
-exthhl/combinep.thy	case of the scheduler
+  1. hhl/C.thy	   case of the cruise control system
+  2. hhl/Lander2.thy	case of the Lunar lander
+  3. exthhl/combinep.thy	case of the scheduler
 
 
